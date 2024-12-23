@@ -1,0 +1,12 @@
+.venv
+__pycache__/
+lib/
+var/
+venv/
+
+.idea/
+
+instance/
+.webassets-cache
+
+.env
