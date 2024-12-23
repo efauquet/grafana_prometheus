@@ -14,7 +14,7 @@
 - Go to: http://localhost:3000
 - Log in with user: admin pwd: admin 
 - Change password
-- Go to Configuration > Data Sources.
+- Go to: Home > Connections > Data Sources.
 - Add a new data source:
     - Type: Prometheus
     - URL: http://prometheus:9090
